@@ -27,11 +27,6 @@ In this replication, we construct a portfolio based on the top hedge fund stock 
    - Implemented a **Risk Parity** approach, distributing risk equally across the top 40 high-conviction stocks.
    - Evaluated the performance compared to equal-weighted portfolios.
 
-## **Results**
-- **Best Strategy**: 
-  - **Top 40 Stocks, 10% Conviction Threshold**:
-    - **Cumulative Return**: **515.41%**
-    - **Annualized Return**: **15.81%**
 ## Performance Comparison
 
 This plot shows the performance comparison of different portfolios:
